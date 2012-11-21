@@ -2,6 +2,6 @@ package org.genshin.spreeandroid;
 
 import android.app.Activity;
 
-public class Products extends Activity {
+public class OrderActivity extends Activity {
 
 }

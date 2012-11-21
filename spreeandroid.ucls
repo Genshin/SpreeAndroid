@@ -1,0 +1,54 @@
+<class-diagram version="1.0.11" icons="true" automaticImage="PNG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="org.genshin.spreeandroid.ProductsActivity" 
+    project="SpreeAndroid" file="/SpreeAndroid/src/org/genshin/spreeandroid/ProductsActivity.java" binary="false">    
+    <position height="76" width="117" x="126" y="86"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="org.genshin.spreeandroid.SpreeActivity" 
+    project="SpreeAndroid" file="/SpreeAndroid/src/org/genshin/spreeandroid/SpreeActivity.java" binary="false">    
+    <position height="110" width="206" x="283" y="86"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="org.genshin.spreeandroid.OrderActivity" 
+    project="SpreeAndroid" file="/SpreeAndroid/src/org/genshin/spreeandroid/OrderActivity.java" binary="false">    
+    <position height="76" width="112" x="529" y="86"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="org.genshin.spreeandroid.ProductActivity" 
+    project="SpreeAndroid" file="/SpreeAndroid/src/org/genshin/spreeandroid/ProductActivity.java" binary="false">    
+    <position height="76" width="112" x="681" y="86"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="org.genshin.spreeandroid.OrdersActivity" 
+    project="SpreeAndroid" file="/SpreeAndroid/src/org/genshin/spreeandroid/OrdersActivity.java" binary="false">    
+    <position height="76" width="112" x="1043" y="86"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="6" corner="BOTTOM_RIGHT" language="java" name="org.genshin.spreeandroid" project="SpreeAndroid" 
+    file="/SpreeAndroid/src/org/genshin/spreeandroid" binary="false">    
+    <position height="47" width="170" x="833" y="86"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
